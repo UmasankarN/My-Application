@@ -1,2 +1,2 @@
 # My-Application
-MVC FizzBuzz App
+MVC FizzBuzz Application
